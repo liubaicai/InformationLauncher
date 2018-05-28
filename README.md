@@ -1,0 +1,2 @@
+# InformationLauncher
+安装到备用安卓机上转发验证码的东西
